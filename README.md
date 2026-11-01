@@ -5,7 +5,7 @@ I bring a financial-services and audiovisual production perspective to applicati
 
 **Areas of interest:** AI applications and evaluation, product operations, fintech workflows, technical documentation, and audiovisual systems.
 
-[Explore my portfolio](https://montrell-moore-portfolio.montrell-moore.chatgpt.site)
+[Explore my portfolio](https://montrell-moore-portfolio.montrell-moore.chatgpt.site) · [Public showcase](https://github.com/mmmooreproductions-bot/montrell-moore-portfolio)
 
 ## Selected work
 
@@ -13,7 +13,7 @@ I bring a financial-services and audiovisual production perspective to applicati
 | --- | --- | --- |
 | **Make Media Music Platform** (formerly BE Music OS) | Music education, creative services, relationship management, catalog and sync workflows. Next.js, React, TypeScript, Supabase, Vercel. | Active MVP; source remains private. Portfolio shows the real secure entry page. |
 | **SHOWTIME: Live Production Crisis** | Cooperative live-production troubleshooting game designed for 2–8 players. | Public welcome screen accessible; gameplay returned a connection error in the latest check. |
-| **SHOWFLOW** | Audiovisual workflow project. | Current build and implementation details pending verification. |
+| **[SHOWFLOW](https://showflow-av-produc.ai.studio/)** | AV production operations simulation built through Google AI Studio: readiness, patch routing, and shift handoffs. | Published fictional demo accessible; selected navigation verified. Safety logic and hardware behavior not validated. |
 
 ## Working principles
 
