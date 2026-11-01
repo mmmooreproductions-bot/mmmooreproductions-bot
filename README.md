@@ -11,7 +11,7 @@ I bring a financial-services and audiovisual production perspective to applicati
 
 | Project | Focus | Current presentation |
 | --- | --- | --- |
-| **Make Media Music Platform** (formerly BE Music OS) | Music education, creative services, relationship management, catalog and sync workflows. Next.js, React, TypeScript, Supabase, Vercel. | Active MVP; source remains private. Portfolio shows the real secure entry page. |
+| **Make Media Music Platform** (formerly BE Music OS) | Flagship platform connecting music-business operations, Content Studio, Marketing Lab, and Trelly Mo Universe creative workflows. Next.js, React, TypeScript, Supabase, Vercel. | Active MVP; source remains private. Authenticated Content Studio and Marketing Lab inspected; safe interface excerpts in portfolio. |
 | **SHOWTIME: Live Production Crisis** | Cooperative live-production troubleshooting game designed for 2–8 players. | Playable demo; solo startup and two-step incident recovery verified. Multiplayer not retested. |
 | **[SHOWFLOW](https://showflow-av-produc.ai.studio/)** | AV production operations simulation built through Google AI Studio: readiness, patch routing, and shift handoffs. | Published fictional demo accessible; selected navigation verified. Safety logic and hardware behavior not validated. |
 
