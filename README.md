@@ -12,6 +12,7 @@ I bring a financial-services and audiovisual production perspective to applicati
 | Project | Focus | Current presentation |
 | --- | --- | --- |
 | **Make Media Music Platform** (formerly BE Music OS) | Flagship platform connecting music-business operations, Content Studio, Marketing Lab, and Trelly Mo Universe creative workflows. Next.js, React, TypeScript, Supabase, Vercel. | Active MVP; source remains private. Content Studio and Marketing Lab inspected; saved campaign source visuals and completed final exports verified. Safe interface excerpts in portfolio. |
+| **MMM Academy** | Created Music Business 101 (six weeks) and Sync-Ready Creator (ten lessons), with applied learning, knowledge checks, and progress tracking. | Live course views and MMM-issued Career Readiness Certificate observed; showcased as educational product design. |
 | **SHOWTIME: Live Production Crisis** | Cooperative live-production troubleshooting game designed for 2–8 players. | Playable demo; solo startup and two-step incident recovery verified. Multiplayer not retested. |
 | **[SHOWFLOW](https://showflow-av-produc.ai.studio/)** | AV production operations simulation built through Google AI Studio: readiness, patch routing, and shift handoffs. | Published fictional demo accessible; selected navigation verified. Safety logic and hardware behavior not validated. |
 
