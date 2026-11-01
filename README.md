@@ -1,16 +1,26 @@
-## Hi there 👋
+# Montrell Moore
+### AI-assisted applications · Technical operations · Audiovisual systems
 
-<!--
-**mmmooreproductions-bot/mmmooreproductions-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bring a financial-services and audiovisual production perspective to application building. My focus is turning complex workflows into clear, usable systems through domain knowledge, structured thinking, and AI-assisted development.
 
-Here are some ideas to get you started:
+**Areas of interest:** AI applications and evaluation, product operations, fintech workflows, technical documentation, and audiovisual systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Explore my portfolio](https://montrell-moore-portfolio.montrell-moore.chatgpt.site)
+
+## Selected work
+
+| Project | Focus | Current presentation |
+| --- | --- | --- |
+| **Make Media Music Platform** (formerly BE Music OS) | Music education, creative services, relationship management, catalog and sync workflows. Next.js, React, TypeScript, Supabase, Vercel. | Active MVP; source remains private. Portfolio shows the real secure entry page. |
+| **SHOWTIME: Live Production Crisis** | Cooperative live-production troubleshooting game designed for 2–8 players. | Public welcome screen accessible; gameplay returned a connection error in the latest check. |
+| **SHOWFLOW** | Audiovisual workflow project. | Current build and implementation details pending verification. |
+
+## Working principles
+
+- Start with the people and operational problem.
+- Use AI-assisted development with human judgment and review.
+- Make workflows and documentation understandable.
+- Separate verified behavior from product intent.
+- Protect private code, customer information, and credentials.
+
+*This profile presents independent projects. It does not imply employer or client endorsement.*
