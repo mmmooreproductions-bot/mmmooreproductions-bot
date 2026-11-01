@@ -1,9 +1,11 @@
 # Montrell Moore
-### AI-assisted applications · Technical operations · Audiovisual systems
+### AI-assisted applications · Financial operations & risk controls · Audiovisual production
 
-I bring a financial-services and audiovisual production perspective to application building. My focus is turning complex workflows into clear, usable systems through domain knowledge, structured thinking, and AI-assisted development.
+I am a financial-services operations professional and live-event technical lead building AI-assisted applications around real operational problems. My work connects risk-aware workflows, clear documentation, human judgment, and hands-on audiovisual production.
 
-**Areas of interest:** AI applications and evaluation, product operations, fintech workflows, technical documentation, and audiovisual systems.
+**Experience informing my projects:** wealth-management operational reviews and risk-based sampling; live corporate-event audio/video systems; AI-assisted product prototyping and evaluation.
+
+**Areas of interest:** AI evaluation, product and technical operations, fintech controls, workflow automation, technical documentation, and AV systems.
 
 [Explore my portfolio](https://montrell-moore-portfolio.montrell-moore.chatgpt.site) · [Public showcase](https://github.com/mmmooreproductions-bot/montrell-moore-portfolio)
 
